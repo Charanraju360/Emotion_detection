@@ -2,6 +2,9 @@
 
 This project implements a real-time emotion detection system using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The application captures video from a webcam, detects faces using MTCNN, and predicts the emotion of the detected face.
 
+You have to download the fer2013.csv dataset file before and should be kept in the same folder with these files.
+You can get dataset from this link : https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition
+
 ## Features
 
   - **Real-time emotion detection** from a live webcam feed.
