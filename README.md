@@ -51,7 +51,7 @@ Follow these steps to set up and run the project:
 
 The model is trained on the **FER2013 dataset**. You need to download the `fer2013.csv` file and place it in the root directory of the project.
 
-You can find the dataset on Kaggle: [FER2013 Dataset]((https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition))
+You can find the dataset on Kaggle: [FER2013 Dataset](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
 
 ### 2\. Train the Model
 
